@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 26e04c97029d2454a9d2ecef06ec3572, type: 3}
+    - {fileID: 102900000, guid: 456fde0b03bc34ba0926c4b6e3ab545a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5a199f11111ab4814a30b00889cc39d1, type: 3}
+  - {fileID: 21300000, guid: 267229d2374274828bd5db785cd6800e, type: 3}
+  - {fileID: 21300000, guid: b8f2ce3912c9c4c228d46c7adbb1ee22, type: 3}
+  - {fileID: 21300000, guid: 90ff8ce9642c54fd199851c03a6c6bdd, type: 3}
+  - {fileID: 21300000, guid: 7bce620bd149741bbba471d5258c7624, type: 3}
+  - {fileID: 21300000, guid: cfa211ebf6cc94792b9ef3c88ce25c1d, type: 3}
+  - {fileID: 21300000, guid: 60af7e9c00b7344539bf6555331c8e7d, type: 3}
+  - {fileID: 21300000, guid: f2a7abbdac04a49f08f3ce64fa46c297, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Star spritesheet
+  - star_outlined
+  - Body Part
+  - star_outlined_colored
+  - Circle
+  - star
+  - Border
+  - pixel_outsideAtlas
+  m_RenderDataMap: {}
+  m_Tag: Atlas
+  m_IsVariant: 0

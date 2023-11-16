@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Local Objects
+  m_EditorClassIdentifier: 
+  m_GroupName: Local Objects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e5632c3a6ced54c169711a874ef65cce
+  m_SerializeEntries:
+  - m_GUID: 9729501407c2f403c91ee8bd75b66ff3
+    m_Address: Assets/Project/Prefabs/RoomPlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e79f069139ca4b089a99bf42da21d10
+    m_Address: Assets/Project/Prefabs/Player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51d470887e13041dbb2838a7aecc3d60
+    m_Address: Assets/Project/Prefabs/Boost.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d89b7e4d282c8445dbd593de119a85df
+    m_Address: Assets/Project/Prefabs/Bot.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e55e771d42be14d3ba2c33b94753928b
+    m_Address: Assets/Project/Prefabs/GravityManager.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d18f84774eae954c9002a33c62fbe8b
+    m_Address: Assets/Project/Prefabs/Particle/Hit Particle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf6a5edd3f5cd44129482ff75810b2a4
+    m_Address: Assets/Project/Prefabs/Particle/Break Particle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cbfc670ca39e849b2b5395105b66586c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 032148972328c401ab8afb6354b510a1, type: 2}
+    - {fileID: 11400000, guid: 6a889af526ef94ed4bd12bf3579ace05, type: 2}

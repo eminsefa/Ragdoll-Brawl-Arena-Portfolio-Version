@@ -1,0 +1,5 @@
+Player,1,https://github.com/eminsefa/Ragdoll-Brawl-Arena/raw/master/Assets/Project/VersionableObjects/Player.prefab
+Boost,1,https://github.com/eminsefa/Ragdoll-Brawl-Arena/raw/master/Assets/Project/VersionableObjects/Boost.prefab
+Environment,1,https://github.com/eminsefa/Ragdoll-Brawl-Arena/raw/master/Assets/Project/VersionableObjects/Environment.prefab
+GravityManager,1,https://github.com/eminsefa/Ragdoll-Brawl-Arena/raw/master/Assets/Project/VersionableObjects/GravityManager.prefab
+RoomPlayer,1,https://github.com/eminsefa/Ragdoll-Brawl-Arena/raw/master/Assets/Project/VersionableObjects/RoomPlayer.prefab
